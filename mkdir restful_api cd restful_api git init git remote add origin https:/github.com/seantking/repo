@@ -1,0 +1,5 @@
+mkdir restful_api
+cd restful_api
+git init
+git remote add origin https://github.com/seantking/RaspberryPI-API.git
+git pull origin master
